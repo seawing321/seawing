@@ -1,4 +1,3 @@
-# seawing
 #!/bin/bash
 
 apt-get purge -y unattended-upgrades update-manager-core
